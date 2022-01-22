@@ -1,6 +1,7 @@
-![](./docs/anotherWorld.svg)
 # hydra 
 as "sky" and "floor" of escher's _another world 2_
+
+![](./docs/anotherWorld.svg)
 
 # three.js and escher
 
