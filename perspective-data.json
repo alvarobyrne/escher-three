@@ -1,0 +1,12 @@
+{
+    "viewport":{
+        "width":1024,
+        "height":1280
+    },
+    "structure":{
+        "dimensions":{
+            "depth":2
+        },
+        "thickness":0.1
+    } 
+}
