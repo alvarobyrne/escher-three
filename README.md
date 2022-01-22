@@ -1,3 +1,4 @@
+![](./docs/anotherWorld.svg)
 # hydra 
 as "sky" and "floor" of escher's _another world 2_
 
@@ -32,4 +33,3 @@ just for personal explanation: sorry about that :{()
 
 ![](./docs/anotherWorld-projection-view.svg)
 
-![](./docs/anotherWorld.svg)
